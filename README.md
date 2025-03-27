@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samiran Debnath.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Front-End Development.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: samdebsam86@gmail.com
 - 😄 Gender: Male
